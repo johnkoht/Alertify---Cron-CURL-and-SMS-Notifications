@@ -1,0 +1,12 @@
+Alertify v1.0 (call it whatever you want)
+
+
+Basically, use this to set up a cron job to CURL request a page. If it exists then use Twilio's API to send and array of numbers a text message. 
+
+  1. Update the $numbers array with whatever phone numbers you want. 
+  2. Add your Twilio Account info and API Token
+  3. Add your message
+  4. Add the website
+  5. Let the magic happen
+  
+I built this in about 45 minutes so yeah....
