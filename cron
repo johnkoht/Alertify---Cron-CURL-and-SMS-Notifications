@@ -1,0 +1,4 @@
+#   Alertify v1.0
+#   Cron file
+
+curl http://www.domain.com/path/to/file > /dev/null 2>&1
